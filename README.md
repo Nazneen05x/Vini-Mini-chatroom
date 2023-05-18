@@ -31,7 +31,11 @@
 
 <!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
 
-## Bronnen
+## Bronnen 🌐
+
+<ul>
+  <li>https://github.com/ju5tu5/barebonechat</li>
+</ul>
 
 ## Licentie
 
