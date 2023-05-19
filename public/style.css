@@ -26,10 +26,10 @@ body {
   section {
     width: 20rem;
     height: 30rem;
-    background: #DAEEEE;
+    background: rgba(255, 255, 255, 0.6);
     backdrop-filter: blur(1rem);
     border-radius: 2rem;
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    border: 2px solid #73AEA6;
     box-shadow: 0.8rem 0.8rem 1.6rem 0 rgba(206, 205, 205, 0.5),
       -0.8rem -0.8rem 1.6rem 0 rgba(255, 255, 255, 0.5);
     display: flex;
