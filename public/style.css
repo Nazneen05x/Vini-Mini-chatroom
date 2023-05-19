@@ -147,3 +147,11 @@ body {
     margin-bottom: -30em;
     position: absolute;
   }
+
+  label{
+    display: flex;
+  }
+
+  .Gebruikersnaam{
+    width: 100px;
+  }
