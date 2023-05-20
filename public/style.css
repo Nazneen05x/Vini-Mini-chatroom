@@ -75,17 +75,18 @@ body {
   }
   
   section form {
-    margin: 0 0 1rem 0;
+    margin: 0 0 3rem 0;
     padding: 0;
     width: 18rem;
     height: 2rem;
     display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: row;
   }
   
   section form input[type='text'] {
-    margin: 0;
     padding: 0 1rem;
-    border: none;
     height: 2rem;
     flex-grow: 2;
     background: rgb(239, 238, 238);
@@ -165,4 +166,16 @@ body {
     margin-left: -30em;
     z-index: 50%;
     top: 11em;
+  }
+
+  .Gebruikersnaamtekstvak{
+    display: flex;
+    margin-bottom: 1em;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    margin-top: 1em;
+  }
+
+  .gebruikersnaamtitle{
+    margin-left: 0.5em;
   }
