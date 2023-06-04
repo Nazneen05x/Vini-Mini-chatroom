@@ -22,6 +22,10 @@
 
 ik heb een simpele chatbox gemaakt. Je kunt in de chat een gesprek voeren met andere mensen. 
 
+Ik heb adaptable.io gebruikt om de chatroom live te zetten.
+
+> Bekijk hier de chatroom: https://vini-mini-chatroom.adaptable.app/
+
 ## Kenmerken 🖇️
 
 <strong>`TOOLS 🧰`</strong>
