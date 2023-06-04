@@ -20,7 +20,7 @@
 
 ## Gebruik 👨‍👩‍👧‍👦
 
-<!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
+ik heb een simpele chatbox gemaakt. je kunt in de chat een gesprek voeren met andere mensen. 
 
 ## Kenmerken 🖇️
 
