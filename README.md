@@ -20,7 +20,7 @@
 
 ## Gebruik 👨‍👩‍👧‍👦
 
-ik heb een simpele chatbox gemaakt. je kunt in de chat een gesprek voeren met andere mensen. 
+ik heb een simpele chatbox gemaakt. Je kunt in de chat een gesprek voeren met andere mensen. 
 
 ## Kenmerken 🖇️
 
