@@ -75,7 +75,7 @@ body {
   }
   
   section form {
-    margin: 0 0 3rem 0;
+    margin: 0px 0 5rem 0;
     padding: 0;
     width: 18rem;
     height: 2rem;
@@ -179,3 +179,9 @@ body {
   .gebruikersnaamtitle{
     margin-left: 0.5em;
   }
+
+.gebruikersbericht{
+  margin-right: 4em;
+  margin-bottom: 1em;
+  margin-left: 0.5em;
+}
