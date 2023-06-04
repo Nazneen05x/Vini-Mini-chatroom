@@ -2,7 +2,8 @@
 
 # Vini Mini Chatroom 🥚
 
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+<img width="800" alt="Scherm­afbeelding 2023-06-04 om 15 58 26" src="https://github.com/Nazneen05x/Vini-Mini-chatroom/assets/112861261/3ed39423-6f52-41a0-8c6c-90f676c4afb6">
+
 
 ## Inhoudsopgave
 
