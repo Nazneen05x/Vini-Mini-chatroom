@@ -5,7 +5,7 @@
 <img width="800" alt="Scherm­afbeelding 2023-06-04 om 15 58 26" src="https://github.com/Nazneen05x/Vini-Mini-chatroom/assets/112861261/3ed39423-6f52-41a0-8c6c-90f676c4afb6">
 
 
-## Inhoudsopgave
+## Inhoudsopgave 📚
 
 - [Beschrijving](#beschrijving)
 - [Gebruik](#gebruik)
@@ -14,23 +14,30 @@
 - [Bronnen](#bronnen)
 - [Licentie](#licentie)
 
-## Beschrijving
+## Beschrijving 📃
 
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+> Je leert in deze deeltaak kleine aanpassingen maken aan een realtime webapp. Daarna leer je de huisstijl van een opdrachtgever toe te passen op deze webapp. Als je tijd over hebt zijn er een aantal uitdagingen, je voegt dan functionaliteit toe aan de chatroom die je als basis krijgt.
 
-## Gebruik
+## Gebruik 👨‍👩‍👧‍👦
 
 <!-- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
 
-## Kenmerken
+## Kenmerken 🖇️
 
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
 
-## Installatie
+## Installatie 🛠️
 
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
+1. Installeer `Node 18.14.0 LTS.`
+2. Fork deze leertaak.
+3. Code klonen naar Github Desktop.
+4. Code open in VSCode of een andere editor.
+5. Terminal open.
+4. `Npm init` (typen in je terminal, stappen doorlopen).
+6. `Npm install express socket.io` (typen in je terminal, daarna enter druken).
+7. `Npm start` (typen in je terminal).
+8. Localhost: 4242 (live link om je website te zien, link van de server).
+9. Project live zetten met `adaptable.io` of andere webhost.
 
 ## Bronnen 🌐
 
