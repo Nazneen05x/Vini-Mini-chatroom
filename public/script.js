@@ -15,6 +15,7 @@ document.querySelector('form').addEventListener('submit', (event) => {
   // Als er überhaupt iets getypt is
   if (input.value) {
     // Stuur het bericht naar de server
+    // Roelie heeft mij geholpen om gebruiersnaam meesturen in de chat.
     ioServer.emit('message',{ 
       Gebruikersnaam: Gebruikersnaam.value,
       Bericht: Bericht.value
